@@ -3,3 +3,4 @@ Nice to see you !
 3rd line added in feature 1
 4th line added in local repo
 5th line edit from remote
+6th line edit from remote
